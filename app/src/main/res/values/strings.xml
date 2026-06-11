@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_expression">Expression Calculator</string>
+    <string name="title_history">History</string>
+
+    <string name="display_zero">0</string>
+    <string name="display_error">Error</string>
+    <string name="history_empty">No operations yet.</string>
+
+    <string name="btn_clear">C</string>
+    <string name="btn_num">num</string>
+    <string name="btn_eq">=</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_mul">*</string>
+    <string name="btn_div">/</string>
+    <string name="btn_bin">BIN</string>
+    <string name="btn_oct">OCT</string>
+    <string name="btn_hex">HEX</string>
+    <string name="btn_history">Hist</string>
+    <string name="btn_expr">Expr</string>
+</resources>

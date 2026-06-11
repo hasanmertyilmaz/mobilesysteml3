@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Lab3" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <!-- Part 2.1: graphical buttons (background changes color when pressed). -->
+    <style name="CalcButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:background">@drawable/btn_digit</item>
+    </style>
+
+    <style name="CalcButton.Op">
+        <item name="android:background">@drawable/btn_op</item>
+    </style>
+
+    <style name="CalcButton.Clear">
+        <item name="android:background">@drawable/btn_clear</item>
+    </style>
+
+    <style name="CalcButton.Equals">
+        <item name="android:background">@drawable/btn_equals</item>
+    </style>
+
+    <style name="CalcButton.Extra">
+        <item name="android:background">@drawable/btn_extra</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+</resources>

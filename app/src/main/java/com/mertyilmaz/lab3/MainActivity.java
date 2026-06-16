@@ -1,9 +1,10 @@
 package com.mertyilmaz.lab3;
 
 /*
- * Introduction to Mobile Systems — Lab 3
- * Student: Hasan Yilmaz
+ * Name: Hasan Yilmaz
  * Student ID: 56505
+ * Lab: 3
+ * Course: Introduction to Mobile Systems
  */
 
 import android.content.Intent;

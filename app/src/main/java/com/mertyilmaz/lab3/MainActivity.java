@@ -1,5 +1,11 @@
 package com.mertyilmaz.lab3;
 
+/*
+ * Introduction to Mobile Systems — Lab 3
+ * Student: Hasan Yilmaz
+ * Student ID: 56505
+ */
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;

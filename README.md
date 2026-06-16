@@ -1,5 +1,12 @@
 # Lab 3 — Calculator (Android, Java)
 
+- **Course:** Introduction to Mobile Systems
+- **Lab number:** 3
+- **Student:** Hasan Yilmaz
+- **Student ID:** 56505
+
+**Description:** An Android calculator (Java) with a numeric keypad and a display at the top. The basic mode evaluates strictly left-to-right without precedence (2 + 2 * 2 = 8) and includes a power button, while a separate expression mode respects operator precedence (2 + 2 * 2 = 6) using the shunting-yard algorithm. Bonus features include BIN/OCT/HEX conversion, an operation history screen, and safe handling of division by zero and invalid input.
+
 Android Studio project (Java) implementing **all three parts** of the calculator assignment.
 
 ## Part 1 — Basic calculator (mandatory)
